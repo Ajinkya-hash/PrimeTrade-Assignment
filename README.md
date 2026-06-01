@@ -174,7 +174,7 @@ jupyter notebook
 Open:
 
 ```text
-Primetrade_Interview_Level_Project.ipynb
+ASSGNMENT.ipynb
 ```
 
 and execute all cells.
